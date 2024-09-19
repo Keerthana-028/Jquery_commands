@@ -1,0 +1,8 @@
+{
+    "students": [
+      { "name": "keerthana", "age":22, "department": "BME" },
+      { "name": "Sathana", "age": 20, "department": "BCOM" },
+      { "name": "yuva", "age": 23, "department": "ECE" }
+    ]
+  }
+  
