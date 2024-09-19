@@ -1,0 +1,9 @@
+The python script reads a JSON file, extracts the data, and prints its output.
+
+Working:
+* The python script reads JSON file containing the student details like name age and the deoartment.
+* The script then processes each data and print it.
+
+
+Requirement
+* python
